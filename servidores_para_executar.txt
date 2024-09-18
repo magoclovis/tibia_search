@@ -72,5 +72,3 @@ Wildera	 2   - 13/08/2024 16:00
 Wintera	 4	 -
 Yonabra	 4   -
 Yovera	 2   - 13/08/2024 22:49
-
-PowerBI      -
