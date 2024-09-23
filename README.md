@@ -4,3 +4,5 @@ Com os valores salvos em um banco de dados será possível comparar valores de i
 e assim fazer comparações, com o intuito de comprar em servidores onde item X é mais barato e revender onde ele for mais caro.
 
 Versão do cliente 13.0.
+
+Pausa no projeto devido ao novo client do Tibia.
